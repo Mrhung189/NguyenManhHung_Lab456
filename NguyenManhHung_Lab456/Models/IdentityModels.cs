@@ -16,6 +16,7 @@ namespace NguyenManhHung_Lab456.Models
             // Add custom user claims here
             return userIdentity;
 
+
             //Them mot doan code trong day]\
             //dfghklj
             //Them dong code
